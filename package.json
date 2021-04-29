@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc --build",
-    "serve": "ts-node ./src/classes.ts",
+    "serve": "ts-node ./src/2_operators.ts",
     "start": "node ./dist/classes.js"
   },
   "devDependencies": {
