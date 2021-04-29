@@ -5,8 +5,8 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc --build",
-    "serve": "ts-node ./src/main.ts",
-    "start": "node ./dist/main.js"
+    "serve": "ts-node ./src/classes.ts",
+    "start": "node ./dist/classes.js"
   },
   "devDependencies": {
     "@types/node": "^15.0.1",
